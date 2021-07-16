@@ -9,4 +9,4 @@ El precio actual es obtenido del API de la pagina web https://www.coinapi.io/
 * Swift 5
 * Networking
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
