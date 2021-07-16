@@ -1,4 +1,4 @@
-# ByteCoin  ![alt text](https://camo.githubusercontent.com/4751d3561450d56710436312805a23f58a01eb5459698db360420f104cbd98a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d466f6c6c6f772d696e666f726d6174696f6e616c3f6c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f73616e746961676f2d616775697272652d3033323834613230312f)
+# ByteCoin  ![alt text](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 App para poder ver el valor actual de Bitcoin en diferentes monedas
 
 
