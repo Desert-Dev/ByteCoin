@@ -7,6 +7,6 @@ El precio actual es obtenido del API de la pagina web https://www.coinapi.io/
 ## Tecnologias utilizadas:
 * XCode
 * Swift 5
-* Networking
+* Networking con JSON y API
 
 -![Sample Gif](Demo.gif)
