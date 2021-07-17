@@ -9,4 +9,4 @@ El precio actual es obtenido del API de la pagina web https://www.coinapi.io/
 * Swift 5
 * Networking
 
-![Alt Text](https://s6.gifyu.com/images/Jul-16-2021-5-27-45-p.m..gif)
+-![Sample Gif](Demo.gif)
