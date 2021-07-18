@@ -8,5 +8,6 @@ El precio actual es obtenido del API de la pagina web https://www.coinapi.io/
 * XCode
 * Swift 5
 * Networking con JSON y API
+* JSON Parsing
 
 -![Sample Gif](Demo.gif)
