@@ -1,13 +1,13 @@
 # ByteCoin  ![alt text](https://img.shields.io/badge/Made%20with-Swift-orange)
-App para poder ver el valor actual de Bitcoin en diferentes monedas
+App to see the current value of Bitcoin in different currencies
 
-El precio actual es obtenido del API de la pagina web https://www.coinapi.io/
+The current price is obtained from the API of the website https://www.coinapi.io/
 
 
-## Tecnologias utilizadas:
+## Used technology:
 * XCode
 * Swift 5
-* Networking con JSON y API
-* JSON Parsing
+* Networking with JSON and API
+* JSON Parsing with "Decodable" protocol
 
 -![Sample Gif](Demo.gif)
